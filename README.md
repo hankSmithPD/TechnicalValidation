@@ -1,0 +1,2 @@
+# TechnicalValidation
+Python image comparison
